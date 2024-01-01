@@ -1,0 +1,7 @@
+/home/ubuntu/challs/binary/Vaccines/Dockerfile,vaccines,1237:8003
+/home/ubuntu/challs/crypto/hash_clash/Dockerfile,hash_clash,1240:8004
+/home/ubuntu/challs/misc/festival_bonanza/Dockerfile,festival_bonanza,1238:8002
+/home/ubuntu/challs/web/egg/Dockerfile,egg,1242:3000
+/home/ubuntu/challs/web/entity_entropy/Dockerfile,entity_entropy,8080:80
+/home/ubuntu/challs/web/the_spy/Dockerfile,the_spy,1243:3000
+
